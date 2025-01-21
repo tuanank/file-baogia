@@ -25,19 +25,19 @@
     "eventDisabled": [
         "antinamebot.js"
     ],
-    "ACCESSTOKEN": "EAAD6V7os0gcBO9oYn6ZBPTgZAkaSehUfZCBFoc9fYuOaF985MclxwmMET0p2AZB1YZAmdihp161XjZBZCHTmyDdQjWtvs5gloxYmha0Gv2AWnzkGZBOcpPNRuh3BaOlul80Perqym5ajSCQ2fDy4JsN3LG3rWjflt5VJ0bsWSOpbvPTy5AYirldx8RvhugZDZD",
+    "ACCESSTOKEN": "EAAGNO4a7r2wBOZC5y6tC5GzSBnnso9zlaYMxpkQP3krwTutTQCu5bifu4jNlQmbMmOJPqmjGKMJis8hKcAIhLIQ2x3dBl3BmA5elRIbmJccVt3KfFWUGRKO6kfGLXG4dWjyUNytVdmqBZCZAXwwLs0K2KozmCCPLk7rlLfqgwWHObcTyhRnduLB1gZDZD",
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "TDS_TOKEN": "TDS0nI2IXZ2V2ciojIyVmdlNnIsISOwAzayFGRiojIyV2c1Jye",
+    "TDS_TOKEN": "TDS0nI0IXZ2V2ciojIyVmdlNnIsISZ0N2auFmbhVHdiojIyV2c1Jye",
     "BOTNAME": "𝕊𝕒𝕥𝕠𝕣𝕦",
-    "FACEBOOK_ADMIN": "https://www.facebook.com/anhquy.2.0.8",
-    "PREFIX": "•",
+    "FACEBOOK_ADMIN": "https://www.facebook.com/anhyeuemnhamlun",
+    "PREFIX": ".",
     "ADMINBOT": [
-        "100030259834679"
+        "61555625227297"
     ],
     "NDH": [
-        "100030259834679"
+        "61555625227297"
     ],
     "DATABASE": {
         "sqlite": {
@@ -45,7 +45,7 @@
         }
     },
     "APPSTATEPATH": "appstate.json",
-    "NPM_FCA": "./gojo/hzi",
+    "NPM_FCA": "./utils/fca-unofficial",
     "SETUP_WIN": {
         "port": 8080,
         "use": "Nếu chạy nhiều hơn 1 file trên win thì thay đổi số này ở file thứ 2, 3, 4..."
